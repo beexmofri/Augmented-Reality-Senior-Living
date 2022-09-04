@@ -1,0 +1,37 @@
+<resources>
+    <string name="ar">Augemented Reality</string>
+    <string name="infromation">Information</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="by">Created by: \n Binar Mohamad Faruqi Rayono 11118442</string>
+    <string name="succes">Succes</string>
+    <string name="exitdialog">Exit ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="error">Error</string>
+    <string name="title_activity_augmented">AugmentedActivity</string>
+    <string name="app_name">ARViewModelDrop</string>
+    <string name="unavaialabe">ArCore Not Available</string>
+    <string name="ARCoreStatus">Arcore Installed</string>
+    <string name="camera_permision_required">Camera permission is needed to run this application</string>
+    <string name="arcore_not_installed">ArCore Not Installed</string>
+    <string name="arcore_required">You Need ARCore To Use AR</string>
+    <string name="view_in_scene_view">View In Scene View</string>
+    <string name="view_in_ar">View In AR</string>
+    <string name="view_in_3D">View In 3D</string>
+    <string name="wow_you_can_use_ar">3D View Model</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tit">Fasilitas Kesehatan Berbasis Wisata Untuk Wisatawan Mancannegara Lanjut Usia Di Madura</string>
+    <string name="desc">Fasilitas Kesehatan Berbasis Wisata Untuk Wisatawan Mancannegara Lanjut Usia di Madura. Memiliki tujuan agar para wisatwan mancanegara lanjut usia ini mendapatkan fasilitas yang memberikan keamanan untuk mereka berwisata di Indonesia.</string>
+    <string name="info">Information</string>
+    <string name="vid">Video Fasilitas Kesehatan Berbasis Wisata Untuk Wisatawan Mancannegara Lanjut Usia Di Madura</string>
+    <string name="loc">Location</string>
+    <string name="view">3D Model View</string>
+
+    <string name="place_object">Place object</string>
+    <string name="new_object">New object</string>
+    <string name="instant_placement">Instant Placement</string>
+    <string name="depth_placement">Depth Placement</string>
+    <string name="plane_placement">Plane Placement</string>
+    <string name="best_placement">Best Placement</string>
+</resources>
